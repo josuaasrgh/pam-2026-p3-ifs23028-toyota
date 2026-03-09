@@ -23,8 +23,7 @@ Aplikasi Android berbasis **Jetpack Compose** yang menampilkan katalog mobil Toy
 ## 📱 Tangkapan Layar (Screenshots)
 
 
-Katalog Toyota | Detail Mobil |
-| <img width="378" height="841" alt="image" src="https://github.com/user-attachments/assets/31db705a-a0ce-497d-a41e-5e2e52cf5cd2" /> | <img width="376" height="837" alt="image" src="https://github.com/user-attachments/assets/a31c783a-784d-4168-ba87-d6cf0ba09c22" /> |
+<img width="378" height="841" alt="image" src="https://github.com/user-attachments/assets/31db705a-a0ce-497d-a41e-5e2e52cf5cd2" />  <img width="376" height="837" alt="image" src="https://github.com/user-attachments/assets/a31c783a-784d-4168-ba87-d6cf0ba09c22" />
 
 
 ## 📁 Struktur Proyek Utama
@@ -55,4 +54,5 @@ Nama: Josua Saragih
 NIM: ifs23028
 
 Institusi: Institut Teknologi Del - S1 Informatika
+
 
